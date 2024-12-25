@@ -6,6 +6,9 @@
 ## Doc Seperation Technique
 ![Ebook automation architecture 2](https://github.com/user-attachments/assets/0aed0fcc-fe98-401a-812f-691593307f18)
 
+# You can Download the fine tuned model from
+[Fine Tuned Bengali Model](https://drive.google.com/drive/folders/18bcgJ-0ZbYPkfgCX8w-ogDieDNnvXgni?usp=drive_link)
+
 # Challenges
 
 ## 1. Handling Mixed Font Weights in Paragraphs:
