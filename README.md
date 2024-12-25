@@ -9,7 +9,7 @@
 # You can Download the fine tuned model from
 [Fine Tuned Bengali Model](https://drive.google.com/drive/folders/18bcgJ-0ZbYPkfgCX8w-ogDieDNnvXgni?usp=drive_link)
 
-Please Make a folder with the name 'fine_tuned_bengali_model' and keep the 6 files there after downloading, otherwise you need to edit the code with the files location.Also Keep the ipnyb files in the same location where you put your 'fine_tuned_bengali_model' folder
+Please Make a folder with the name 'fine_tuned_bengali_model' and keep the 6 files there after downloading, otherwise you need to edit the code with the files location.Also Keep the ipnyb files in the same location where you have your 'fine_tuned_bengali_model' folder
 
 # Challenges
 
